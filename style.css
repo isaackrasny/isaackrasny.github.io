@@ -1,0 +1,40 @@
+body { 
+background: #272727;
+    text-align:center; 
+}
+
+
+p {
+   font-family: 'Open Sans', sans-serif;
+    list-style: none;
+    margin-top: 10;
+}
+
+h1{
+    font-family: 'Unica One', sans-serif;
+    color: #ffe400;
+    font-size: 70px;
+    margin-top: 4%;
+    margin-bottom: 5%
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #ffe400;
+}
+
+
+
+a {
+    color: #a8a5a5;
+    font-weight: 300;
+    text-decoration: none;
+}
+
+#correct {
+margin-top: 4%
+}
+
+#things {
+    margin-top: 4%
+}
